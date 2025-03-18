@@ -43,7 +43,16 @@
 |Colaboração no GitHub| [Cetificado](https://web.dio.me/certificates)
 |Formatação com Markdown| [Cetificado](https://web.dio.me/certificates)
 
--------
+<img src="./.github/assets/lineBar.png" width="100%" height="8px"/>
+
+
+
+
+<imag width="50px" heith="200px" src="https://github-readme-stats.vercel.app/api?username=GFMBTECH&show_icons=true&theme=blue-green" />
+
+<img loading="lazy" width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GFMBTECH&layout=compact&title_color=80F7D4&text_color=fff&bg_color=0d1117&border_color=fff0" />
+
+[GFMBTECH GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=GFMBTECH&layout=compact&title_color=80F7D4&text_color=fff&bg_color=0d1117&border_color=fff0)
 
 [GFMBTECH GitHub stats](https://github-readme-stats.vercel.app/api?username=GFMBTECH&show_icons=true&theme=blue-green) 
 
