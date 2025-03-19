@@ -49,11 +49,8 @@
 
 -----------
 
-<img src="./.github/assets/lineBar.png" width="100%" height="8px"/>
-
-![GFMBTECH GitHub stats](https://github-readme-stats.vercel.app/api?username=GFMBTECH&show_icons=true&theme=dracula)
-
-![GFMBTECH GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=GFMBTECH&layout=compact&langs_count=7&theme=dracula)
+![GFMBTECH GitHub stats](https://github-readme-stats.vercel.app/api?username=GFMBTECH&show_icons=true&theme=radical)
+![GFMBTECH GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=GFMBTECH&layout=compact&langs_count=7&theme=blue-green)
 
 
 
